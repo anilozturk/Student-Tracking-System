@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1370005402 source:c:\users\casper\desktop\anill\main.cpp
+	<iostream>
+	<cstdio>
+	"string.h"
+	"tarih.h"
+	"bilgisayar.h"
+	"ogrenci.h"
+	"ogrenci_dizisi.h"
+
+1370006077 source:c:\users\casper\desktop\anill\string.cpp
+	<iostream>
+	<cctype>
+	<cstring>
+	<cstdio>
+	"string.h"
+
+1370006077 c:\users\casper\desktop\anill\string.h
+	<iostream>
+
+1370006077 source:c:\users\casper\desktop\anill\tarih.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	"tarih.h"
+
+1370006077 c:\users\casper\desktop\anill\tarih.h
+
+1370006077 source:c:\users\casper\desktop\anill\bilgisayar.cpp
+	<iostream>
+	<iomanip>
+	"bilgisayar.h"
+	"string.h"
+
+1370006077 c:\users\casper\desktop\anill\bilgisayar.h
+	"string.h"
+
+1370006077 source:c:\users\casper\desktop\anill\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"ogrenci.h"
+	"string.h"
+	"tarih.h"
+	"bilgisayar.h"
+
+1370006077 c:\users\casper\desktop\anill\ogrenci.h
+	"string.h"
+	"tarih.h"
+	"bilgisayar.h"
+
+1370006077 source:c:\users\casper\desktop\anill\ogrenci_dizisi.cpp
+	<iostream>
+	<cstdio>
+	"ogrenci.h"
+	"ogrenci_dizisi.h"
+
+1370006077 c:\users\casper\desktop\anill\ogrenci_dizisi.h
+	"ogrenci.h"
+
